@@ -91,3 +91,6 @@ interactive duplicate resolution.
 
 - interactive duplicate resolution
 - filetype white-/blacklisting
+- wreckless mode: automatically delete duplicates found after the first
+- link replace: replace deleted duplicates with shortcuts/links to
+original
