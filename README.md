@@ -76,6 +76,11 @@ directory for the search.
 
 Yes, you can use dupy to do what is described in 'What is dupy?'
 
+It is, however, at what would charitably be called an untested phase.
+I built this for my own use and academic interest and so I haven't yet
+polished out handling things like passing something dumb as the argument
+or giving it a stupidly large folder.
+
 ## Is dupy finished?
 
 No.  It does what it says in 'What is dupy?' and the plan is to extend
